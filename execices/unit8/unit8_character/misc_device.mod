@@ -1,2 +1,0 @@
-/media/hicl/SSD-ext4/Documents/MySource/Embedded-Linux/BeagleBone/bai8/unit8_character/misc_device.o
-
